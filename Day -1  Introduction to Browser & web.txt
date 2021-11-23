@@ -1,0 +1,13 @@
+2.Write a blog on Difference between HTTP1.1 vs HTTP2
+	• HTTP1.1 was released on 1997, whereas HTTP2 came in 2015
+	• In HTTP1.1, all requests and responses are made in plain text format. In HTTP2, it uses binary format.
+	• HTTP1.1 makes multiple connections vs HTTP2 make a single connection between client and server for communication.
+	• In HTTP1.1, information is sent one after the other. All data frames are sent together in HTTP2
+	• HTTP2 is aster, simpler, and more robust compared to HTTP1.1
+
+3.Write a blog about objects and its internal representation in JavaScript
+	• A JavaScript object is a collection of key values having state and behavior (properties and method)
+	• The named values, in JavaScript objects, are called properties.
+	• Methods are actions that can be performed on objects.
+	• Objects are mutable: They are addressed by reference, not by value.
+	• JavaScript is an object-based language. Almost everything is an object in JavaScript.
